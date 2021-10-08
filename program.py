@@ -1,3 +1,5 @@
-marks = 50
+from student import Student
+
+student = Student('Amal')
 print('Hello world')
-print(marks)
+print(student.marks)
