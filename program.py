@@ -1,5 +1,7 @@
 from student import Student
 
-student = Student('Amal')
+student1 = Student('Amal')
+student2 = Student('Kamal')
 print('Hello world')
-print(student.marks)
+print(student1.marks)
+print(student2.marks)
